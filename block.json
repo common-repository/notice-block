@@ -1,0 +1,14 @@
+{
+	"apiVersion": 2,
+	"name": "notice-block/notice",
+	"title": "Notice",
+	"category": "widgets",
+	"description": "Put Spotlight On News, Announcements & Let The Visitors Find It Easily",
+	"textdomain": "notice-block",
+	"supports": {
+		"align": [
+			"wide",
+			"full"
+		]
+	}
+}
